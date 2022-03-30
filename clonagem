@@ -1,0 +1,26 @@
+ferramentas utilizadas 
+01. Acronis Trueimage 2021 build 39216 ( necessita de licença)
+02.Aomei Backup V6.5.1 Necessita de licença 
+03.Lazersoft Disk Image & Clone v4.0.0.1
+04.Macrium Reflect PE 
+05.RunTime DriveImage
+
+Procedimentos 
+
+01. Acronis Trueimage 2021 build 39216
+  01.1  
+  
+02.Aomei Backup V6.5.1
+    02.1
+    
+03.Lazersoft Disk Image & Clone v4.0.0.1
+    03.1 localize a opção clone disk em Drive Clone dentro do aplicativo 
+      03.2 apos isso selecione o disco (hd ssd ) que deseja clonar 
+        03.3 selecione o disco de destino (de Preferencia um disco vazio pois o processo ira apagar qualquer arquivo existente) 
+        
+04.Macrium Reflect PE 
+    04.1 Insira o SSD/HDD no qual vai receber a clonagem, pode ser interno, por um dock (como fiz) o um case externo.
+      03.2 Ao abrir o Macrium Reflect, vão aparecer no setor 3 o Disk 1 que é o HDD (disco de origem) e abaixo o Disk 2,3,4 
+       03.3 Selecionar o disco de destino este programa permite reorganizar as partiçoes 
+         
+
